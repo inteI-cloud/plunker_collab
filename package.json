@@ -23,7 +23,7 @@
     "express": "3.x",
     "coffee-script": "1.4.x",
     "nconf": "0.6.x",
-    "lactate": "0.12.x",
+    "lactate": "0.13.12",
     "connect-assets": "2.3.x",
     "request": "2.12.x",
     "lru": "0.1.x"
