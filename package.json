@@ -19,7 +19,7 @@
     "url": "git://github.com/filearts/plunker_collab.git"
   },
   "dependencies": {
-    "share": "0.6.x",
+    "share": "0.7.40",
     "express": "3.x",
     "coffee-script": "1.4.x",
     "nconf": "0.6.x",
