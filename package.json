@@ -21,7 +21,7 @@
   "dependencies": {
     "share": "0.6.x",
     "express": "3.x",
-    "coffee-script": "1.4.x",
+    "coffee-script": "1.12.7",
     "nconf": "0.6.x",
     "lactate": "0.12.x",
     "connect-assets": "2.3.x",
