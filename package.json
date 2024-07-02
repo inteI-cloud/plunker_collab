@@ -25,7 +25,7 @@
     "nconf": "0.6.x",
     "lactate": "0.12.x",
     "connect-assets": "2.3.x",
-    "request": "2.12.x",
+    "request": "2.88.2",
     "lru": "0.1.x"
   },
   "keywords": [
